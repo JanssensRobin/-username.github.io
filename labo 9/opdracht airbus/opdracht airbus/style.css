@@ -1,0 +1,34 @@
+#top {
+    height: 200px;
+    text-align: center;
+    background: url(fotos/bgsky3.jpg);
+    position: relative;
+    color: darkblue;
+}
+
+#top img  {
+    position: absolute;
+    bottom: 60px;
+    right: 250px;
+}
+
+#top h1 {
+    margin: 0px;
+    font-size: 300%;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#top p {
+    font-size: 240%;
+    font-weight: bold;
+}
+
+#news {
+    width: 250px;
+    background-color: #dddddd;
+    border: #999999;
+
+
+
+}
